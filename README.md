@@ -1,1 +1,2 @@
-# projetos
+## Licença
+MIT License (MIT) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
