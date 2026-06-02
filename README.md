@@ -1,14 +1,22 @@
+# Francisco de Paula - Projetos
+
+![estado](https://img.shields.io/badge/estado-Em_Andamento-yellow)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
 
+Repositório para organizar, categorizar e direcionar os projetos realizados para fins de estudo, desafio ou construção pessoal.
+
+🔗 Listagem Completa:
 
 ---
-### Conteúdo
 
-- [Contato](#Contato)
-	- [Principal](#Principal)
-	- [Redes](#Redes)
-- [Contribuição](#Contribuição)
-- [Licença](#Licença)
+## 📑 Conteúdo
+
+- Projetos
+	-  	
+- Contato
+- Contribuição
+- Licença
+
 ---
 
 
@@ -23,7 +31,7 @@
 
 * **LinkedIn:** [/in/euchico](https://www.linkedin.com/in/euchico)
 * **Twitter/X:** [@euchicoprog](https://twitter.com/euchicoprog)
-* **Instagram:** [@euchicodev](https://www.instagram.com/euchicodev)
+* **Instagram:** [@euchicoprog](https://www.instagram.com/euchicoprog)
 
 ## 🤝 Contribuição
 
