@@ -5,14 +5,11 @@
 
 Repositório para organizar, categorizar e direcionar os projetos realizados para fins de estudo, desafio ou construção pessoal.
 
-🔗 Listagem Completa:
 
 ---
 
 ## 📑 Conteúdo
 
-- Projetos
-	-  	
 - Contato
 - Contribuição
 - Licença
